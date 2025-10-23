@@ -59,6 +59,6 @@ Future Enhancements:
 >Email/SMS alerts for low stock notifications
 
 Author:
-Sajid Khan
+Aakash khede
 B.Tech CSE | Full Stack Developer (in progress)
 Jawaharlal Institute of Technology, Borawan, MP.
